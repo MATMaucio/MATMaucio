@@ -8,4 +8,17 @@
 
 3. Se usar motores como Unity y Unreal Engine
 
+Lenguajes que se usar
 
+1. C#
+
+2. HTML
+
+3. MARKDOWN
+
+
+Encuentrame en
+
+[Instagram](https://www.instagram.com/)
+
+[Itch.io](https://mat-maucio.itch.io/)
